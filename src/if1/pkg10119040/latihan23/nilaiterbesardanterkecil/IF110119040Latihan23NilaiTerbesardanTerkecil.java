@@ -11,6 +11,10 @@ import java.util.Scanner;
 /**
  *
  * @author Acer
+ * Nama     : Agus Deri Dermawan
+ * Kelas    : IF1
+ * NIM      : 10119040
+ * program menghitung nilai terbesar dan terkecil dari nilai mahasiswa
  */
 public class IF110119040Latihan23NilaiTerbesardanTerkecil {
 
